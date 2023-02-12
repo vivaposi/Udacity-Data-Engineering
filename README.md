@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-#Sparkify Data Lake Project
+# Sparkify Data Lake Project
 
 ## About The Project
 
