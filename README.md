@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-# <p style="text-align: center;"> Sparkify Data Lake Project </p>
+# <p align=center> Sparkify Data Lake Project </p>
 
 ## <center> About The Project </center>
 
