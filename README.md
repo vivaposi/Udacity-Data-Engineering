@@ -4,7 +4,7 @@
 
 A music streaming startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new app. Sparkify has grown their user base and song database and need to move their data warehouse to a data lake on the cloud. Their data resides in S3 buckets as a compilation of JSON files.
 
-Sparking would like a data engineer to build an ETL pipeline that extracts their data from S3,  processes the data using Spark, and loads the data back into S3 as a set of fact and dimensional tables in Parquet format. This will allow their analytics team to continue finding insights into what songs their users are listening to, where their app is most used, and any other user or song analytics questions they need answered. The role of this project is to create a data lake on cloud (AWS S3) and build ETL pipeline for this process. 
+Sparkify is looking for a data engineer to build an ETL pipeline that extracts their data from S3,  processes the data using Spark, and loads the data back into S3 as a set of fact and dimensional tables in Parquet format. This will allow their analytics team to continue finding insights into what songs their users are listening to, where their app is most used, and any other user or song analytics questions they need answered. The role of this project is to create a data lake on cloud (AWS S3) and build ETL pipeline for this process. 
 
 ### Project Description
 
