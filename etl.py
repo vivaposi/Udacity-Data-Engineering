@@ -160,7 +160,7 @@ def process_log_data(spark, input_data, output_data):
 def main():
     spark = create_spark_session()
     input_data = "s3a://udacity-dend/"
-    output_data = "s3a://data-lake-sparkify-s3"
+    output_data = "s3a://sparkify-data-lake-s3-parquet"
     
     print("\n")
     
