@@ -3,7 +3,7 @@ import configparser
 from datetime import datetime
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import udf, col
-from pyspark.sql.functions import year, month, dayofmonth, hour, weekofyear, date_format
+from pyspark.sql.functions import year, month, dayofmonth, dayofweek, hour, weekofyear, date_format
 from pyspark.sql.functions import monotonically_increasing_id
 from pyspark.sql.types import StructType as R, StructField as Fld, DoubleType as Dbl
 from pyspark.sql.types import StringType as Str, IntegerType as Int, DateType as Dat, TimestampType
