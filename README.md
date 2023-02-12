@@ -40,7 +40,7 @@ These are the prerequisites to run the program.
 * AWS Account
 * AWS EMR
 
-### How to run
+### Running the ETL Pipeline
 
 1. Edit the `dl.cfg` config file with corresponding Access Key and Secret Key information
 
