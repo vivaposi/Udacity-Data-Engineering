@@ -10,11 +10,6 @@ Sparking would like a data engineer to build an ETL pipeline that extracts their
 
 In this project, we will build a data lake on AWS S3 and build an ETL pipeline for a data lake hosted on S3. The data is loaded from S3 and processed into analytics tables using Spark and the processed data is loaded back into S3 in the form of Parquet files.
 
-### Built With
-
-* Python 3.9
-* AWS
-
 ### Dataset
 
 #### Song Dataset
@@ -42,12 +37,12 @@ Sample of activity log :
 These are the prerequisites to run the program.
 
 * python 3.7 (or higher)
-* AWS account
+* AWS Account
 * AWS EMR
 
 ### How to run
 
-1. Edit the `dl.cfg` config file with corresponding AWS Access Key and Secret Key information
+1. Edit the `dl.cfg` config file with corresponding Access Key and Secret Key information
 
 2. Run ETL process 
 
